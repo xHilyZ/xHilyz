@@ -25,7 +25,7 @@
 
 ## 🔗 My Links
   
-- 🎥 Twitch: (https://www.twitch.tv/bvvku)  
+- 🎥 Twitch: https://www.twitch.tv/bvvku 
 - 💬 Discord: 6kxd  
 
 ---
