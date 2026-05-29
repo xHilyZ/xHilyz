@@ -1,34 +1,63 @@
-# 👋 Hey, I'm Hily
+# 👋 Hi, I’m Hily
 
-**Game Developer · FiveM/Qbox/QB-Core · Lua Scripter**
+![Profile Views](https://komarev.com/ghpvc/?username=Sahil&color=6f42c1)
 
-I build immersive RP systems, clean Lua scripts, and optimized frameworks for FiveM servers.
-
----
-
-## 🛠 Skills & Tools
-- **FiveM Development** — Qbox, QB-Core, custom systems, resource optimization  
-- **Lua Scripting** — clean, modular, performance-focused  
-- **Server Systems** — ox_inventory, LuxuAdmin, elevators, jobs, UI polish  
-- **Branding & Visuals** — BVVKU aesthetic, purple/black/white, chrome accents
+**Proudly Building in the FiveM & Lua Space**
 
 ---
 
-## 🎮 Current Focus
-- Developing a refined FiveM server with custom mechanics  
-- Improving code structure for large-scale RP environments  
-- Building cohesive branding for Twitch + in-game UI
+## 🛠 What can I do?
+
+- 🛠 Development — FiveM, Qbox, QB-Core, Lua systems, custom frameworks  
+- ⚙️ Server Engineering — resource optimization, anti-scuff setups, clean architecture  
+- ⭐ Administration — server structure, staff workflows, community stability  
+- 🎨 Creative Direction — BVVKU branding, UI/UX, overlays, anime/fashion aesthetics  
 
 ---
 
-## 🔗 Links
-- **Twitch:** _add link_  
-- **Discord:** _add tag or server_  
-- **Portfolio:** _optional_
+## 🛡 Current Servers / Work
+
+- 🛡 Owner @ Vexora Gaming (FiveM)  
+- ⭐ Developer / Systems Engineer @ Personal Projects  
+- 🎨 Branding & Visuals @ Twitch / BVVKU  
+
+---
+
+## 🔗 My Links
+  
+- 🎥 Twitch: (https://www.twitch.tv/bvvku)  
+- 💬 Discord: 6kxd  
+
+---
+
+## 📌 Information
+
+- ⚠️ Please **do NOT** contact me for punishment appeals — open a ticket  
+- 🧰 Currently **NOT** accepting commissions  
+- 💬 Best contact: **Discord**  
+
+---
+
+## 📊 GitHub Stats
+
+- **Total Contributions:** _auto-updates_  
+- **Current Streak:** _auto-updates_  
+- **Longest Streak:** _auto-updates_  
+- **Active Since:** _your GitHub join date_  
+
+---
+
+## 🕹 Past Servers / Experience
+
+- Developer / Configurator @ Multiple FiveM Servers  
+- Owner / Lead Dev @ Previous Projects  
+- Developer / Admin @ Various Communities  
+- Branding & UI Work Across Multiple Games  
 
 ---
 
 ## ⚡ About Me
-- I like breaking systems down and rebuilding them cleaner  
+
+- I build clean, optimized Lua systems for FiveM  
 - I mix competitive FPS vibes with anime + mafia aesthetics  
-- Goal: Build a full BVVKU-themed ecosystem across code + visuals
+- I’m building a full BVVKU‑themed ecosystem across code + visuals  
