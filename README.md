@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I'm Hily
 
-<!--
-**xHilyZ/xHilyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Game Developer · FiveM/Qbox/QB-Core · Lua Scripter**
 
-Here are some ideas to get you started:
+I build immersive RP systems, clean Lua scripts, and optimized frameworks for FiveM servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+- **FiveM Development** — Qbox, QB-Core, custom systems, resource optimization  
+- **Lua Scripting** — clean, modular, performance-focused  
+- **Server Systems** — ox_inventory, LuxuAdmin, elevators, jobs, UI polish  
+- **Branding & Visuals** — BVVKU aesthetic, purple/black/white, chrome accents
+
+---
+
+## 🎮 Current Focus
+- Developing a refined FiveM server with custom mechanics  
+- Improving code structure for large-scale RP environments  
+- Building cohesive branding for Twitch + in-game UI
+
+---
+
+## 🔗 Links
+- **Twitch:** _add link_  
+- **Discord:** _add tag or server_  
+- **Portfolio:** _optional_
+
+---
+
+## ⚡ About Me
+- I like breaking systems down and rebuilding them cleaner  
+- I mix competitive FPS vibes with anime + mafia aesthetics  
+- Goal: Build a full BVVKU-themed ecosystem across code + visuals
