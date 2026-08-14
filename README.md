@@ -1,4 +1,4 @@
-# Hily - FiveM & Lua Developer
+# Hily - Developer
 
 <img src="https://komarev.com/ghpvc/?username=xHilyZ&label=Profile%20views&color=6f42c1&style=flat" alt="Profile Views" />
 
